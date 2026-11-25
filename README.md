@@ -1,0 +1,21 @@
+# DSA-in-cpp
+
+Repository for tracking my progress through C++ Data Structures and Algorithms (DSA). Contains optimized and accepted solutions to algorithmic problems.
+
+## Project Overview
+This repository serves as a centralized portfolio of my problem-solving journey. It highlights clean code, optimal time/space complexities, and consistent progress in mastering core computer science concepts.
+
+## Tech Stack & Tools
+* **Language:** C++
+* **Environment:** Visual Studio Code (VS Code)
+* **Version Control:** Git & GitHub
+* **Platform:** LeetCode
+
+## Repository Structure
+Solutions are maintained directly in the root directory for rapid navigation. Files are named strictly by their problem number and title for clarity:
+* `1. Two Sum.cpp`
+* `88. Merge Sorted Array.cpp`
+* `121. Best Time to Buy and Sell Stock.cpp`
+
+---
+*Maintained by Raj Shekhar Chauhan. Continuous commits driven by daily problem-solving.*
